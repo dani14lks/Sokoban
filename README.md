@@ -5,11 +5,8 @@ Program to resolve the sokoban problem.
 Initial state:
 
 	 _________________
-	 
 	|     |     |     |
-	
 	|     |     |     |
-	
 	|_____|_____|_____|
 	
 	|     |     |     |
